@@ -1,0 +1,4 @@
+com\epam\Authorization\AuthorizationTest.class
+com\epam\TestsBase\BaseTest.class
+com\epam\AddToCart\AddToCartTest.class
+com\epam\SearchProduct\SearchProductTest.class

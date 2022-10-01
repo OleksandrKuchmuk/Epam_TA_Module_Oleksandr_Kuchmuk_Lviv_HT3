@@ -1,0 +1,14 @@
+com\epam\Pages\AvicHome\AvicHomePage.class
+com\epam\Pages\Listing\AvicListingPage.class
+com\epam\Pages\Authorization\AuthorizationPage.class
+com\epam\Pages\CableAsndAdapters\CableAndAdaptersPage.class
+com\epam\Constants\Constant$Urls.class
+com\epam\Common\CommonActions.class
+com\epam\Constants\Constant.class
+com\epam\Constants\Constant$LoginsAndPasswords.class
+com\epam\Constants\Constant$Counts.class
+com\epam\MainTest.class
+com\epam\Pages\Base\BasePage.class
+com\epam\Common\Config.class
+com\epam\Constants\Constant$TimeoutVariable.class
+com\epam\Constants\Constant$AlertsMessages.class
